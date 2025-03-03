@@ -1,2 +1,4 @@
-# kotlin-gui-starter-basic
-A tarter project fpr a very simple Kotlin GUI app using Swing and FlatLAF
+# Kotlin GUI Starter - Basic UI
+
+A starter project for a very simple Kotlin GUI app using Swing and FlatLAF
+
